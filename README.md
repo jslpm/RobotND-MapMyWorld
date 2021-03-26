@@ -33,4 +33,5 @@ The image below shows the mapping process in rviz.
 9. Navigate through the map environment!
 
 The created map is saved in database folder. You can access to database folder and opening the map with `rtabmap-databaseViewer rtabmap.db`. Then select `View -> Constrain View` and `View -> Graph View`.
-An `rtabmap.db` example can be downladed from [link](https://www.dropbox.com/s/7vmmppi460ewm83/rtabmap.db?dl=0).
+
+A `rtabmap.db` example can be downladed from [link](https://www.dropbox.com/s/7vmmppi460ewm83/rtabmap.db?dl=0).
