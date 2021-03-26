@@ -27,7 +27,7 @@ The image below shows the mapping process in rviz.
 3. Build the files: `catkin_make`
 4. Execute in terminal: `source devel/setup.bash`
 5. In terminal, launch the simulation environment (Gazebo and Rviz): `roslaunch my_robot world.launch`
-6. In a new terminal, launch keyboard teleoperation: `roslaunch my_robot teleop.launch`
+6. In a new terminal, launch keyboard teleoperation: `roslaunch my_robot teleop.launch`. Make sure that `RobotND-MapMyWorld/catkin_ws/src/teleop_twist_keyboard/teleop_twist_keyboard.py` is executable.
 7. In a new terminal, launch rtabmap: `roslaunch my_robot mapping.launch`
 8. Ina a new terminal, launch the localication node: `roslaunch my_robot localization.launch`
 9. Navigate through the map environment!
