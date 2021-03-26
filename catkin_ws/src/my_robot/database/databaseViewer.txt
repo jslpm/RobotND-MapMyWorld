@@ -1,0 +1,1 @@
+The created map is saved in database folder. You can access to database folder and opening the map with rtabmap-databaseViewer rtabmap.db. Then select View -> Constrain View and View -> Graph View.
